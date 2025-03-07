@@ -148,3 +148,36 @@ header {
 .right div {
     width: 25%;
 }
+
+.section.bottom {
+    background-color: #22272A;
+}
+
+/* FOOTER */
+
+footer {
+    background-color: #22272A;
+    border-top: 1px solid white;
+    padding-top: 30px;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1200px;
+    height: 80px;
+    margin: auto;
+    background-color: #35FFD1;
+
+}
+
+.logo-bottom,
+.button {
+    width: 70px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    background-color: #FFB2C3;
+    text-align: center;
+    vertical-align: middle;
+}
