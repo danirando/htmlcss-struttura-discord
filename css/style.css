@@ -116,3 +116,14 @@ header {
     flex-direction: row-reverse;
     background-color: #D3D3D3;
 }
+
+.bigger {
+    width: 1200px;
+    height: 900px;
+    background-color: #008D00;
+    border: 1px dashed black;
+}
+
+.gray {
+    background-color: #D3D3D3;
+}
