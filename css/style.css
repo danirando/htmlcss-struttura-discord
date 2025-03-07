@@ -114,4 +114,5 @@ header {
 
 .reverse {
     flex-direction: row-reverse;
+    background-color: #D3D3D3;
 }
