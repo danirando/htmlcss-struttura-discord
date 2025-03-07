@@ -92,7 +92,7 @@ header {
 
 /* MAIN */
 
-.first-section {
+.section {
     display: flex;
     padding: 50px;
     justify-content: center;
@@ -110,4 +110,8 @@ header {
     height: 500px;
     background-color: #FFBDCA;
     border: 1px dashed black;
+}
+
+.reverse {
+    flex-direction: row-reverse;
 }
