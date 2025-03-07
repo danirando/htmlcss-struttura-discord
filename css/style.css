@@ -89,3 +89,25 @@ header {
     border-radius: 5px;
 
 }
+
+/* MAIN */
+
+.first-section {
+    display: flex;
+    padding: 50px;
+    justify-content: center;
+}
+
+.big {
+    width: 720px;
+    height: 500px;
+    background-color: #0093FF;
+    border: 1px dashed black;
+}
+
+.small {
+    width: 480px;
+    height: 500px;
+    background-color: #FFBDCA;
+    border: 1px dashed black;
+}
