@@ -157,7 +157,6 @@ header {
 
 footer {
     background-color: #22272A;
-    border-top: 1px solid white;
     padding-top: 30px;
 }
 
@@ -169,6 +168,7 @@ footer {
     height: 80px;
     margin: auto;
     background-color: #35FFD1;
+    border-top: 1px solid white;
 
 }
 
